@@ -1,1 +1,36 @@
 
+body {
+  background-image: url(https://cdn.hovia.com/app/uploads/black-marble-textures-plain-820x532.jpg);
+  color: #F5F0E3;
+  font-family: Times, new Roman, Helvetica, sans-serif:
+  margin: 10% 20%;
+}
+
+.exp-header{  
+  text-transform: uppercase;
+  text-align: center
+}
+
+.mik-header{
+  text-align: center
+}
+
+.cem-header{
+  text-align: center
+    
+}
+.list-header{
+  text-align:center
+   
+}
+.ski-header{
+  text-align: center
+    
+}
+.name-header{
+  font-size: 35px;
+  text-transform: uppercase;
+  text-align: center;
+ 
+    
+}
